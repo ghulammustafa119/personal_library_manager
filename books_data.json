@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Python Mastery",
+        "author": "Anmol Bhutto",
+        "year": "2025",
+        "genre": "Python",
+        "read": true
+    },
+    {
+        "title": "hello Dunya",
+        "author": "anmol",
+        "year": "2023",
+        "genre": "world",
+        "read": true
+    }
+]
